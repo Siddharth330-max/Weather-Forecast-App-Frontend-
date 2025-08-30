@@ -30,15 +30,15 @@ OpenWeather API (Weather data)
 weather-app/
 │── public/
 
-│   └── index.html
+     │    └── index.html
 
 │── src/
 
-│   ├── App.jsx
+     │   ├── App.jsx
 
-│   ├── index.js
+     │   ├── index.js
 
-│   ├── index.css
+     │   ├── index.css
 
 │── .gitignore
 
