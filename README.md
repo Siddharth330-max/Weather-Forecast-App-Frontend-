@@ -28,6 +28,7 @@ OpenWeather API (Weather data)
 📂 Project Structure
 
 weather-app/
+
 │── public/
 
      │    └── index.html
