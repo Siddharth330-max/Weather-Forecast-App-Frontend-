@@ -1,12 +1,50 @@
-# React + Vite
+# WEATHER FORECAST APP
 
-This template provides a minimal setup to get React working in Vite with HMR and some ESLint rules.
+A simple and responsive Weather Forecast App built with React and OpenWeather API.
+Users can search for any city to view real-time weather details such as temperature, humidity, wind speed, and conditions.
 
-Currently, two official plugins are available:
+🚀 Features
 
-- [@vitejs/plugin-react](https://github.com/vitejs/vite-plugin-react/blob/main/packages/plugin-react) uses [Babel](https://babeljs.io/) for Fast Refresh
-- [@vitejs/plugin-react-swc](https://github.com/vitejs/vite-plugin-react/blob/main/packages/plugin-react-swc) uses [SWC](https://swc.rs/) for Fast Refresh
+🌍 Search weather by city name
 
-## Expanding the ESLint configuration
+📍 Error handling (invalid city / network issues)
 
-If you are developing a production application, we recommend using TypeScript with type-aware lint rules enabled. Check out the [TS template](https://github.com/vitejs/vite/tree/main/packages/create-vite/template-react-ts) for information on how to integrate TypeScript and [`typescript-eslint`](https://typescript-eslint.io) in your project.
+📱 Responsive design (mobile + desktop)
+
+🎨 Styled with Tailwind CSS
+
+☁️ Real-time weather data from OpenWeather API
+
+🌡 Temperature in Celsius with humidity & wind details
+
+🛠️ Tech Stack
+
+React (Frontend)
+
+Tailwind CSS (Styling)
+
+OpenWeather API (Weather data)
+
+📂 Project Structure
+
+weather-app/
+│── public/
+│   └── index.html
+│── src/
+│   ├── App.jsx
+│   ├── index.js
+│   ├── index.css
+│── .gitignore
+│── package.json
+│── package-lock.json
+│── tailwind.config.js
+│── postcss.config.js
+│── README.md
+
+🌐 Deployment
+
+You can deploy this app easily on Vercel or Netlify:
+
+Vercel: https://vercel.com
+
+Netlify: https://netlify.com
