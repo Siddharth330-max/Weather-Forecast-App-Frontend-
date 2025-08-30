@@ -29,16 +29,27 @@ OpenWeather API (Weather data)
 
 weather-app/
 │── public/
+
 │   └── index.html
+
 │── src/
+
 │   ├── App.jsx
+
 │   ├── index.js
+
 │   ├── index.css
+
 │── .gitignore
+
 │── package.json
+
 │── package-lock.json
+
 │── tailwind.config.js
+
 │── postcss.config.js
+
 │── README.md
 
 🌐 Deployment
